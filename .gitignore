@@ -5,6 +5,7 @@
 *.jpeg
 *.svg
 *.gif
+*.webp
 
 *.avi
 *.mp4
@@ -19,3 +20,6 @@
 /upload
 /images
 *.html
+_*
+*.back*
+*.snp
